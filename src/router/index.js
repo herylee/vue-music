@@ -4,15 +4,15 @@ import Recommend from 'components/recommend/recommend'
 import Singer from 'components/singer/singer'
 import Rank from 'components/rank/rank'
 import Search from 'components/search/search'
+/* eslint-disable */
 
 Vue.use(Router)
 
 export default new Router({
-  routes: [
-    {
+  routes: [{
 
-    path:'/',
-    redirect: '/recommend'
+      path: '/',
+      redirect: '/recommend'
 
     },
     {

@@ -1,4 +1,5 @@
 export const commonParams = {
+  /* eslint-disable */
 
   g_tk: 5381,
   inCharset: 'utf-8',
