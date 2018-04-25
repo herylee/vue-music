@@ -3,6 +3,9 @@ require('./check-versions')()
 // 同步测试
 process.env.NODE_ENV = 'production'
 
+//  哈哈哈哈哈
+
+
 const ora = require('ora')
 const rm = require('rimraf')
 const path = require('path')
