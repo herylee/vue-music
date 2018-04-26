@@ -1,4 +1,4 @@
-<template>
+<template> 
   <div class="recommend">
     <div class="recommend-content">
       <div v-if ="recommends.length" class="slider-wrapper">
@@ -17,6 +17,7 @@
         </ul>
       </div>
     </div>
+  </div>
   </div>
 </template>
 
@@ -128,4 +129,6 @@
     }
   }
 }
+/* eslint-disable */
 </style>
+

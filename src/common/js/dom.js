@@ -1,5 +1,5 @@
 export function addClass(el, className) {
-
+/* eslint-disable */
   if (hasClass(el, className)) {
 
     return
